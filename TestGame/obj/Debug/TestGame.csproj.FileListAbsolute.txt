@@ -1,0 +1,10 @@
+C:\Users\1028c\OneDrive\Desktop\Game\TestGame\TestGame\bin\Debug\TestGame.exe.config
+C:\Users\1028c\OneDrive\Desktop\Game\TestGame\TestGame\bin\Debug\TestGame.exe
+C:\Users\1028c\OneDrive\Desktop\Game\TestGame\TestGame\bin\Debug\TestGame.pdb
+C:\Users\1028c\OneDrive\Desktop\Game\TestGame\TestGame\obj\Debug\TestGame.csprojAssemblyReference.cache
+C:\Users\1028c\OneDrive\Desktop\Game\TestGame\TestGame\obj\Debug\TestGame.Form1.resources
+C:\Users\1028c\OneDrive\Desktop\Game\TestGame\TestGame\obj\Debug\TestGame.Properties.Resources.resources
+C:\Users\1028c\OneDrive\Desktop\Game\TestGame\TestGame\obj\Debug\TestGame.csproj.GenerateResource.cache
+C:\Users\1028c\OneDrive\Desktop\Game\TestGame\TestGame\obj\Debug\TestGame.csproj.CoreCompileInputs.cache
+C:\Users\1028c\OneDrive\Desktop\Game\TestGame\TestGame\obj\Debug\TestGame.exe
+C:\Users\1028c\OneDrive\Desktop\Game\TestGame\TestGame\obj\Debug\TestGame.pdb
